@@ -22,7 +22,7 @@ $$ \varphi_i(t_{n+1}) = \varphi_i(t_n) + \frac{h}{6} ( k_1 + 2 ( k_2 + k_3 ) + k
 -------
 
 ## All-to-all coupling
-We can couple the oscillators to each other by many diverse approaches one of them is all-to-all which means all oscillators are connected to each other.
+We can couple the oscillators to each other by many diverse approaches one of them is all-to-all which means all oscillators are connected.
 We also consider the value of the coupling $\kappa_{ij} = \kappa$ for all connections. On the other hand, we assumed every oscillator has an intrinsic frequency $\omega_i$ which has been selected from a mathematical distribution, i.e. Gaussian distribution $G(\mu, \sigma)$, where $\mu$ and $\sigma$ are the mean and standard deviation of the distribution, respectively. It has been turned out there is a critical coupling strength value for a group of the self-sustained oscillator which are coupled to each other al-to-all, and its value depends on the frequency distribution value on the mean point. 
 
 $$ \kappa_c = \frac{ 2 }{\pi g(\bar{\omega}) } $$
@@ -31,4 +31,4 @@ Let us consider a normal dist. as the frequency dits. and then the value of the 
 
 $$ \kappa_c = \frac{2}{\pi G(0, 1) } = \frac{2 \sqrt{2\pi} \sigma }{\pi} $$
 
-![all text]{../imgs/sync.png}
+![all text](../imgs/sync.png)
