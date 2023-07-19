@@ -31,4 +31,4 @@ Let us consider a normal dist. as the frequency dits. and then the value of the 
 
 $$ \kappa_c = \frac{2}{\pi G(0, 1) } = \frac{2 \sqrt{2\pi} \sigma }{\pi} $$
 
-![all text](../imgs/sync.png)
+![all text](./imgs/sync.png)
